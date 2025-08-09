@@ -12,5 +12,5 @@ try & Except function used to avoid Key error i.e. if the user input a student n
 #Task_2: Demonstrate List slicing.
 
 List comprehension used to create original list as required by Program.
-list slice method & reverse method used to extract the element from list & reverse it as required by Program
+list slice method & reverse method used to extract the element from list & reverse it as required by Program.
 Print function used to print as output display as required by Program.
